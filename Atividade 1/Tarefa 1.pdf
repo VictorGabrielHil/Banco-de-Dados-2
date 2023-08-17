@@ -1,0 +1,8 @@
+
+
+Regras de negócio:
+Cada cliente só pode realizar uma locação de cada vez;
+Cada categoria de veículo tem um valor de diária de locação próprio;
+Quando o veículo for locado, seu status deve ser alterado para locado;
+Ao retornar de locação, o status do veiculo deve ser alterado para disponível e sua quilometragem atualizada.
+
